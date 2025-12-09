@@ -1,5 +1,5 @@
 <?php
 
-$nombre = "jorgita";
+$nombre = "camilita";
 
 echo "hola " . $nombre; 

@@ -1,6 +1,6 @@
 <?php
 
-$nombre = "Belinda";
+$nombre = "PEPE";
 $apellidos = "Dalto";
 
 $saludo = "Hola ". $nombre . " ". $apellidos + "como estas";
