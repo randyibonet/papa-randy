@@ -1,4 +1,4 @@
-# papa-Randy
+# Curso GitHub
 Primer repositorio creado en GitHub
 
 ## Descripcion
